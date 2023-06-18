@@ -331,6 +331,7 @@ teams:
             - chewong # 1.28 CI Signal Shadow
             - mansikulkarni96 # 1.28 CI Signal Shadow
             - mehabhalodiya # 1.28 CI Signal Lead
+            - sontek # 1.28 CI Signal Shadow
             - Vyom-Yadav # 1.28 CI Signal Shadow
             privacy: closed
           release-team-docs:
